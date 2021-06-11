@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925471247403",
+    "firebase_url": "https://cheapeats-49dfc.firebaseio.com",
+    "project_id": "cheapeats-49dfc",
+    "storage_bucket": "cheapeats-49dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925471247403:android:f4361dbf17d1dd4bec2e6e",
+        "android_client_info": {
+          "package_name": "com.wakeapp.cheap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925471247403-gto27tjilo83j7tc9blk7h2hf76ll4kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6QLQTXh7ym6rnRBfwJRpkYEdw_FL6AQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925471247403-gto27tjilo83j7tc9blk7h2hf76ll4kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925471247403-k6d4rdgnjug2anrcgga83oph151qb5dd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wakeapp.covid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
